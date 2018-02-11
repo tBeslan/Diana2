@@ -1,0 +1,39 @@
+
+/* Class = "IBUILabel"; text = "Дата рождения"; ObjectID = "Agc-XR-y2x"; */
+"Agc-XR-y2x.text" = "Дата рождения";
+
+/* Class = "IBUILabel"; text = "Дата зачатия ребенка"; ObjectID = "Let-Nl-YOB"; */
+"Let-Nl-YOB.text" = "Дата зачатия ребенка";
+
+/* Class = "IBUIButton"; normalTitle = "Рассчитать"; ObjectID = "NJs-6I-0Tk"; */
+"NJs-6I-0Tk.normalTitle" = "Рассчитать";
+
+/* Class = "IBUIViewController"; title = "Дата зачатия"; ObjectID = "Qxx-pt-nR4"; */
+"Qxx-pt-nR4.title" = "Дата зачатия";
+
+/* Class = "IBUILabel"; text = "День рождения отца"; ObjectID = "SgE-P2-Qgh"; */
+"SgE-P2-Qgh.text" = "День рождения отца";
+
+/* Class = "IBUILabel"; text = "Дата зачатия ребенка"; ObjectID = "U5Z-q4-kXb"; */
+"U5Z-q4-kXb.text" = "Дата зачатия ребенка";
+
+/* Class = "IBUINavigationItem"; title = "Пол ребенка"; ObjectID = "XcE-Kh-bFU"; */
+"XcE-Kh-bFU.title" = "Пол ребенка";
+
+/* Class = "IBUINavigationController"; title = "Пол ребенка"; ObjectID = "bDU-o7-dpz"; */
+"bDU-o7-dpz.title" = "Пол ребенка";
+
+/* Class = "IBUIViewController"; title = "День рождения отца"; ObjectID = "bsf-yX-HfE"; */
+"bsf-yX-HfE.title" = "День рождения отца";
+
+/* Class = "IBUILabel"; text = "День рождения отца"; ObjectID = "htl-4M-kLm"; */
+"htl-4M-kLm.text" = "День рождения отца";
+
+/* Class = "IBUIViewController"; title = "День рождения матери"; ObjectID = "p91-e5-kGT"; */
+"p91-e5-kGT.title" = "День рождения матери";
+
+/* Class = "IBUILabel"; text = "День рождения матери"; ObjectID = "uy9-VX-dfa"; */
+"uy9-VX-dfa.text" = "День рождения матери";
+
+/* Class = "IBUILabel"; text = "День рождения матери"; ObjectID = "zoz-5z-Qce"; */
+"zoz-5z-Qce.text" = "День рождения матери";
